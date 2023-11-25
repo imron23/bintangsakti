@@ -1,3 +1,1 @@
 # bintangsakti
-# bintangsakti
-# bintangsakti
