@@ -1,0 +1,61 @@
+/** Header **/
+.jeg_nav_right 
+.jeg_main_menu > li > a {
+	font-weight: 600;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+.jeg_main_menu_wrapper:not(:last-child) .jeg_nav_item {
+	padding-right: 14px;
+}
+
+.btn.outline {
+	border-width: 1px;
+	border-radius: 3px;
+}
+
+/* Post Meta */
+.entry-header .jeg_meta_author a, .jeg_postblock .jeg_meta_author a {
+	color: var(--j-heading-color);
+}
+
+.entry-header .jeg_post_meta .fa,
+.jeg_pl_lg_box .jeg_post_meta a,
+.jeg_pl_lg_box .jeg_post_meta .fa,
+.jeg_pl_md_box .jeg_post_meta a,
+.jeg_pl_md_box .jeg_post_meta .fa {
+	color: inherit !important;
+}
+
+.single-post .entry-header .meta_right > div > a .fa {
+	color: inherit;
+}
+
+/* Modules */
+.jeg_block_heading .jeg_block_title,
+.jeg_footer .jeg_footer_heading h3,
+.jeg_footer .widget h2 {
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+}
+
+.jeg_pl_md_box .jeg_post_title {
+    font-weight: bold;
+}
+
+@media only screen and (min-width: 1024px) {
+	.jeg_postblock_23.jeg_col_3o3 .jeg_post .jeg_post_title {
+		font-size: 20px;
+	}
+
+	.jeg_postblock_4.jeg_col_2o3 .jeg_post .jeg_post_title {
+		font-size: 18px;
+	}
+
+	.jeg_col_3o3 .jeg_pl_lg_4 .jeg_post_title {
+		font-size: 36px;
+		margin-bottom: 10px;
+	}
+}

@@ -1,0 +1,127 @@
+.entry-header .jeg_post_meta .fa, .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon {
+	color: inherit !important;
+}
+
+.jeg_main_menu > li > a {
+    font-size: 17px;
+    font-weight: 500;
+}
+
+.jeg_thumb .jeg_post_category {
+	line-height: 1
+}
+.jeg_post_category {
+	text-rendering: inherit;
+	-webkit-font-smoothing: inherit;
+	-moz-osx-font-smoothing: inherit;
+}
+.jeg_thumb .jeg_post_category a,
+.jeg_pl_lg_box .jeg_post_category a,
+.jeg_pl_md_box .jeg_post_category a,
+.jeg_postblock_carousel_2 .jeg_post_category a,
+.jeg_heroblock .jeg_post_category a,
+.jeg_slide_caption .jeg_post_category a {
+	font-size: 12px;
+	font-weight: 500;
+	padding: 4px 6px 3px;
+	line-height: 1;
+	letter-spacing: .04em;
+}
+
+.jeg_meta_author {
+	text-transform: uppercase;
+}
+.jeg_post_meta > div:not(:last-of-type) {
+	margin-right: 1em;
+}
+
+.entry-header .jeg_meta_author a, .jeg_postblock .jeg_meta_author a {
+	color: #000;
+}
+.jnews-dark-mode .entry-header .jeg_meta_author a, 
+.jnews-dark-mode .jeg_postblock .jeg_meta_author a, {
+	color: var(--j-txt-color);
+}
+.jeg_pl_lg_box .jeg_meta_author a,
+.jeg_pl_md_box .jeg_meta_author a {
+	color: inherit;
+}
+
+.entry-header .jeg_meta_author + .jeg_meta_date:before {
+	margin-right: 6px;
+}
+
+.jeg_slider_type_8 .jeg_post_title {
+	margin: 15px 0 10px;
+}
+
+.jeg_pb_boxed .jeg_pl_sm .jeg_post_meta {
+	display: none;
+}
+
+.jeg_postblock_carousel_3.shownav .jeg_postblock_content {
+	padding-right: 0;
+}
+
+.jeg_block_title {
+	font-size: 17px;
+}
+
+.jeg_block_heading_8 .jeg_block_title {
+	font-size: 24px;
+	font-weight: 500;
+}
+
+/* Widget */
+.jeg_tabpost_nav li {
+	text-transform: uppercase;
+}
+
+@media only screen and (min-width:1024px) {
+	.jeg_col_3o3 .jeg_pl_lg_2 .jeg_post_title,
+	.jeg_col_3o3 .jeg_pl_lg_3 .jeg_post_title {
+		font-size: 32px;
+		font-weight: 500;
+		line-height: 1.15em;
+	}
+	
+	.jeg_pl_lg_5 .jeg_post_title {
+		font-size: 32px;
+		font-weight: 500;
+		line-height: 1.15em;
+		margin-top: 15px;
+	}
+
+	.jeg_pl_xs_2 .jeg_post_title,
+	.jeg_pl_md_1 .jeg_post_title,
+	.jeg_pl_md_5 .jeg_post_title {
+		font-size: 21px;
+		font-weight: 500;
+	}
+
+	.jeg_postblock_23 .jeg_post .jeg_post_title {
+		font-size: 24px;
+		font-weight: 500;
+	}
+
+	.jeg_pl_lg_box .jeg_post_title {
+		font-size: 26px;
+		font-weight: 500;
+	}
+
+	.jeg_pl_sm .jeg_post_title {
+		font-size: 17px;
+		line-height: 1.25;
+		font-weight: 500;
+	}
+
+	.jeg_tabpost_nav li {
+		font-size: 14px
+	}
+
+	.jeg_heroblock_13 .jeg_post_title{
+		font-size: 40px;
+		font-weight: 500;
+	}
+
+}

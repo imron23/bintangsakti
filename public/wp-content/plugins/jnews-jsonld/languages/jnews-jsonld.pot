@@ -1,0 +1,211 @@
+# Copyright (C) 2023 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - JSON-LD 11.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-10T05:40:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: jnews-jsonld\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - JSON-LD"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "JNews JSON-LD Schema"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: article-option.php:10
+msgid "Blog Page Schema Type"
+msgstr ""
+
+#: article-option.php:11
+msgid "Choose which schema you want to use for your blog post."
+msgstr ""
+
+#: article-option.php:13
+msgid "Article"
+msgstr ""
+
+#: article-option.php:14
+msgid "Blog Posting"
+msgstr ""
+
+#: article-option.php:15
+msgid "News Article"
+msgstr ""
+
+#: article-option.php:16
+msgid "Tech Article "
+msgstr ""
+
+#: class.jnews-option-jsonld.php:49
+msgid "JNews : JSON LD Schema Setting"
+msgstr ""
+
+#: class.jnews-option-jsonld.php:50
+msgid "JSON LD Schema setting."
+msgstr ""
+
+#: class.jnews-option-jsonld.php:59
+msgid "Schema Setting"
+msgstr ""
+
+#: class.jnews-option-jsonld.php:67
+msgid "Home Page Schema"
+msgstr ""
+
+#: class.jnews-option-jsonld.php:75
+msgid "Post Schema"
+msgstr ""
+
+#: main-option.php:10
+msgid "Home Page Schema Type"
+msgstr ""
+
+#: main-option.php:11
+msgid "Choose which schema you want to use for your home page."
+msgstr ""
+
+#: main-option.php:13
+msgid "Person"
+msgstr ""
+
+#: main-option.php:14
+msgid "Organization"
+msgstr ""
+
+#: main-option.php:22
+msgid "Person Schema"
+msgstr ""
+
+#: main-option.php:38
+msgid "Name"
+msgstr ""
+
+#: main-option.php:39
+msgid "Insert person name."
+msgstr ""
+
+#: main-option.php:55
+msgid "Address"
+msgstr ""
+
+#: main-option.php:56
+msgid "Insert country address."
+msgstr ""
+
+#: main-option.php:71
+msgid "Organization Schema"
+msgstr ""
+
+#: main-option.php:87
+msgid "Organization Name"
+msgstr ""
+
+#: main-option.php:88
+msgid "Insert organization or company name."
+msgstr ""
+
+#: main-option.php:104
+msgid "Logo"
+msgstr ""
+
+#: main-option.php:105
+msgid "Upload organization or company logo. This logo will also used by JNews AMP for showing logo on google search card"
+msgstr ""
+
+#: main-option.php:121
+msgid "Telephone"
+msgstr ""
+
+#: main-option.php:122
+msgid "e.g. : +1-880-555-1212"
+msgstr ""
+
+#: main-option.php:138
+msgid "Contact Type"
+msgstr ""
+
+#: main-option.php:139
+msgid "Choose company contact type."
+msgstr ""
+
+#: main-option.php:141
+msgid "Customer service"
+msgstr ""
+
+#: main-option.php:142
+msgid "Technical support"
+msgstr ""
+
+#: main-option.php:143
+msgid "Billing support"
+msgstr ""
+
+#: main-option.php:144
+msgid "Bill payment"
+msgstr ""
+
+#: main-option.php:145
+msgid "Sales"
+msgstr ""
+
+#: main-option.php:146
+msgid "Reservations"
+msgstr ""
+
+#: main-option.php:147
+msgid "Credit card support"
+msgstr ""
+
+#: main-option.php:148
+msgid "Emergency"
+msgstr ""
+
+#: main-option.php:149
+msgid "Baggage tracking"
+msgstr ""
+
+#: main-option.php:150
+msgid "Roadside assistance"
+msgstr ""
+
+#: main-option.php:151
+msgid "Package tracking"
+msgstr ""
+
+#: main-option.php:168
+msgid "Area Served"
+msgstr ""
+
+#: main-option.php:169
+msgid "eg : US , or US,CA"
+msgstr ""
+
+#: schema-option.php:10
+msgid "Enable JSON LD Schema"
+msgstr ""
+
+#: schema-option.php:11
+msgid "Turn this option on to enable JNews generate JSON LD Schema for your website."
+msgstr ""

@@ -1,0 +1,238 @@
+# Copyright (C) 2023 Jegtheme
+# This file is distributed under the GPL2.
+msgid ""
+msgstr ""
+"Project-Id-Version: JNews - Instagram Feed 11.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-10T05:40:35+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: jnews-instagram\n"
+
+#. Plugin Name of the plugin
+msgid "JNews - Instagram Feed"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "http://jegtheme.com/"
+msgstr ""
+
+#. Description of the plugin
+msgid "Put your instagram feed on the header and footer of your website"
+msgstr ""
+
+#. Author of the plugin
+msgid "Jegtheme"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://jegtheme.com"
+msgstr ""
+
+#: class/api/class-object-api.php:206
+msgid "Go to the Customizer > JNews : Social, Like & View > Instagram Feed Setting, to connect your Instagram account."
+msgstr ""
+
+#: class/api/class-object-api.php:210
+msgid "The Instagram Access Token is expired, Go to the Customizer > JNews : Social, Like & View > Instagram Feed Setting, to refresh it."
+msgstr ""
+
+#: class/customizer/class-customizer.php:65
+msgid "Instagram Feed Setting"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:4
+msgid "Connect Instagram Account"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:5
+msgid "Connect your Instagram account by clicking this <a class=\"%1$s\" href=\"%2$s\" target=\"_blank\">link</a> and refer to next page URL."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:7
+msgid "Connected as %s"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:8
+msgid "This token is valid until %1$s. Connect another account by clicking this <a class=\"%2$s\" href=\"%3$s\" target=\"_blank\">link</a>."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:53
+msgid "Warning"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:54
+msgid "JNews Instagram plugin can't be used while the Smash Balloon Instagram Feed plugin is active."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:88
+msgid "Footer Instagram Compatibility"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:89
+msgid "Footer Instagram only compatible with <strong>Footer Type 5</strong> and <strong>Footer Type 6</strong>."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:99
+msgid "Enable Instagram Feed"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:100
+msgid "Show the Instagram feed only on header, footer or both."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:103
+msgid "Only Header"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:104
+msgid "Only Footer"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:105
+msgid "Header + Footer"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:106
+msgid "Hide "
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:121
+#: class/module/element/class-option.php:25
+msgid "Number Of Rows"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:122
+#: class/module/element/class-option.php:26
+msgid "Number of rows for footer Instagram feed."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:147
+#: class/module/element/class-option.php:36
+msgid "Number Of Columns"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:148
+#: class/module/element/class-option.php:37
+msgid "Number of Instagram feed columns."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:170
+#: class/module/element/class-option.php:47
+msgid "Video Post Option"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:171
+#: class/module/element/class-option.php:48
+msgid "Display Instagram video post option as thumbnail or video."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:174
+#: class/module/element/class-option.php:51
+msgid "Thumbnail"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:175
+#: class/module/element/class-option.php:52
+msgid "Video"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:193
+#: class/module/element/class-option.php:59
+msgid "Sort Feed Type"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:194
+#: class/module/element/class-option.php:60
+msgid "Sort the Instagram feed in a set order."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:197
+#: class/module/element/class-option.php:63
+msgid "Most Recent"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:198
+#: class/module/element/class-option.php:64
+msgid "Least Recent"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:216
+#: class/module/element/class-option.php:71
+msgid "Hover Style"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:217
+#: class/module/element/class-option.php:72
+msgid "Choose hover effect style."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:220
+#: class/module/element/class-option.php:75
+msgid "Normal"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:221
+#: class/module/element/class-option.php:76
+msgid "Show Icon"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:222
+#: class/module/element/class-option.php:77
+msgid "Show Like Count (Deprecated)"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:223
+#: class/module/element/class-option.php:78
+msgid "Show Comment Count (Deprecated)"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:224
+#: class/module/element/class-option.php:79
+msgid "Zoom"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:226
+#: class/module/element/class-option.php:81
+msgid "No Effect"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:244
+#: class/module/element/class-option.php:88
+msgid "Follow Button Text"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:245
+msgid "Leave empty if you wont show it."
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:261
+#: class/module/element/class-option.php:95
+msgid "Open New Tab"
+msgstr ""
+
+#: class/customizer/sections/instagram-option.php:262
+#: class/module/element/class-option.php:96
+msgid "Open Instagram profile page on new tab."
+msgstr ""
+
+#: class/module/element/class-option.php:13
+msgid "JNews - Horizontal Instagram"
+msgstr ""
+
+#: class/module/element/class-option.php:17
+msgid "JNews - Footer"
+msgstr ""
+
+#: class/module/element/class-option.php:80
+msgid "Zoom Rotate"
+msgstr ""
+
+#: class/module/element/class-option.php:89
+msgid "Leave empty if you wont show it"
+msgstr ""

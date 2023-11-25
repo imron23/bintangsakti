@@ -1,0 +1,76 @@
+# Copyright (C) 2023 vafpress
+# This file is distributed under the same license as the Vafpress Post Formats UI plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Vafpress Post Formats UI 1.5.3\n"
+"Report-Msgid-Bugs-To: \n"
+"Last-Translator: Jegtheme <support@jeghteme.com>\n"
+"Language-Team: Jegtheme <support@jeghteme.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-11-10T05:40:40+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.8.1\n"
+"X-Domain: vafpress-post-formats-ui-develop\n"
+
+#. Plugin Name of the plugin
+msgid "Vafpress Post Formats UI"
+msgstr ""
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "Custom post format admin UI"
+msgstr ""
+
+#. Author of the plugin
+msgid "vafpress"
+msgstr ""
+
+#: vafpress-post-formats-ui-develop.php:89
+msgid "Loading..."
+msgstr ""
+
+#: vafpress-post-formats-ui-develop.php:91
+msgid "Pick Gallery Images"
+msgstr ""
+
+#: vafpress-post-formats-ui-develop.php:92
+msgid "Add Image(s)"
+msgstr ""
+
+#: views/format-audio.php:3
+msgid "Audio URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: views/format-gallery.php:2
+msgid "Gallery Images"
+msgstr ""
+
+#: views/format-gallery.php:23
+msgid "Pick Images"
+msgstr ""
+
+#: views/format-link.php:3
+msgid "URL"
+msgstr ""
+
+#: views/format-quote.php:4
+msgid "Source Name"
+msgstr ""
+
+#: views/format-quote.php:8
+msgid "Source URL"
+msgstr ""
+
+#: views/format-video.php:3
+msgid "Video URL (oEmbed) or Embed Code"
+msgstr ""
+
+#: views/tabs.php:9
+msgid "Standard"
+msgstr ""

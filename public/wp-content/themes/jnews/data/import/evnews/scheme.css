@@ -1,0 +1,115 @@
+/** Header **/
+.jeg_header.full .container {
+	padding-left: 16px;
+	padding-right: 16px;
+}
+
+.jeg_navbar .jeg_nav_item {
+	padding: 0 8px;
+}
+
+.jeg_singlepage .jeg_breadcrumbs {
+	margin-bottom: 0;
+}
+
+/** Block **/
+.entry-header .jeg_post_meta .fa,
+.jeg_post_meta .fa,
+.jeg_post_meta .jpwt-icon {
+	color: inherit !important;
+}
+
+.jeg_meta_author {
+	text-transform: uppercase;
+}
+.jeg_post_meta > div:not(:last-of-type) {
+	margin-right: 1em;
+}
+
+.jeg_thumb .jeg_post_category a,
+.jeg_pl_lg_box .jeg_post_category a,
+.jeg_pl_md_box .jeg_post_category a,
+.jeg_postblock_carousel_2 .jeg_post_category a,
+.jeg_heroblock .jeg_post_category a,
+.jeg_slide_caption .jeg_post_category a {
+	padding: 4px;
+	font-weight: 500;
+	letter-spacing: 1;
+	border-radius: 2px;
+	font-size: 10px;
+}
+
+.jeg_readmore {
+	box-shadow: none;
+}
+
+.jeg_readmore,
+input,
+input:not([type="submit"]),input[type="submit"],textarea,select,.chosen-container-single .chosen-single {
+	border-radius: 2px;
+}
+
+.jeg_block_loadmore a:before, .jeg_block_loadmore a:after {
+	display: none;
+}
+.jeg_block_loadmore a {
+    width: 100%;
+    height: 34px;
+    line-height: 32px;
+}
+
+.jeg_hero_style_1 .jeg_thumb a > div:before {
+	opacity: .35;
+}
+
+.jeg_block_heading_9 {
+    border-top-width: 3px;
+    border-bottom-width: 1px;
+}
+
+.jeg_block_heading_8 .jeg_block_title,
+.jeg_block_heading_9 .jeg_block_title,
+.jeg_footer .jeg_footer_heading h3,
+.jeg_footer .widget h2 {
+    font-size: 14px;
+    letter-spacing: 0.05em;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.jeg_footer .jeg_footer_heading h3,
+.jeg_footer .widget h2 {
+	font-size: 12px;
+}
+
+.jeg_block_heading_9 .jeg_block_title span,
+.jeg_block_heading_9 .jeg_block_title i,
+.jeg_block_heading_9 .jeg_subcat_list > li > a {
+    height: 40px;
+    line-height: 42px;
+}
+
+.elementor-element .jegStickyHolder {
+	padding-top: 0;
+}
+
+@media only screen and (min-width: 1024px) {
+	.jeg_singlepage .jeg_breadcrumbs {
+		margin-bottom: 10px;
+	}
+
+	.jeg_heroblock_6 .jeg_post_title {
+		font-size: 18px;
+		margin-bottom: 5px;
+	}
+
+	.jeg_heroblock_6 .jeg_hero_item_1 .jeg_post_title {
+		font-size: 32px;
+	    margin-right: 24%;
+	}
+
+	.jeg_postblock_14 .jeg_post_title {
+		font-size: 28px;
+		margin-right: 12%;
+	}
+}

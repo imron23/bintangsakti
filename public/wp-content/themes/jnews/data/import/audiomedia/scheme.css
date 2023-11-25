@@ -1,0 +1,38 @@
+/** Header **/
+.jeg_nav_right 
+.jeg_main_menu > li > a {
+	font-weight: 600;
+	text-transform: none;
+	letter-spacing: normal;
+}
+
+.jeg_main_menu_wrapper:not(:last-child) .jeg_nav_item {
+	padding-right: 14px;
+}
+
+.btn.outline {
+	border-width: 1px;
+	border-radius: 3px;
+}
+
+/* Post Meta */
+.entry-header .jeg_meta_author a, .jeg_postblock .jeg_meta_author a {
+	color: var(--j-heading-color);
+}
+
+.entry-header .jeg_post_meta .fa,
+.jeg_pl_lg_box .jeg_post_meta a,
+.jeg_pl_lg_box .jeg_post_meta .fa,
+.jeg_pl_md_box .jeg_post_meta a,
+.jeg_pl_md_box .jeg_post_meta .fa {
+	color: inherit !important;
+}
+
+.single-post .entry-header .meta_right > div > a .fa {
+	color: inherit;
+}
+
+/* Modules */
+.jeg_pl_md_box .jeg_post_title {
+    font-weight: bold;
+}
